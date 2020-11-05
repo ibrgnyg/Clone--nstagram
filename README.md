@@ -19,7 +19,7 @@
 ![explore](https://user-images.githubusercontent.com/41470054/98292022-15cd7b00-1fbd-11eb-8ad2-267a8f0cb722.png)
 
 
-### Profiles
+## Profiles
 
 ![firstprofile](https://user-images.githubusercontent.com/41470054/98292142-4ca39100-1fbd-11eb-9bba-81f0af16ef74.png)
 
